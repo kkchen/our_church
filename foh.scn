@@ -1914,27 +1914,27 @@
 /fx/7/par 0.0 0.0 100 3 0.05 796 OFF OFF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/8 TEQ2
 /fx/8/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
-/outputs/main/01 4 POST OFF
+/outputs/main/01 1 POST OFF
 /outputs/main/01/delay OFF   0.3
-/outputs/main/02 5 POST OFF
+/outputs/main/02 2 POST OFF
 /outputs/main/02/delay OFF   0.3
-/outputs/main/03 6 POST OFF
+/outputs/main/03 3 POST OFF
 /outputs/main/03/delay OFF   0.3
-/outputs/main/04 7 POST OFF
+/outputs/main/04 11 POST OFF
 /outputs/main/04/delay OFF   0.3
-/outputs/main/05 11 POST OFF
+/outputs/main/05 0 POST OFF
 /outputs/main/05/delay OFF   0.3
-/outputs/main/06 9 POST OFF
+/outputs/main/06 0 POST OFF
 /outputs/main/06/delay OFF   0.3
-/outputs/main/07 10 POST OFF
+/outputs/main/07 0 POST OFF
 /outputs/main/07/delay OFF   0.3
-/outputs/main/08 3 POST OFF
+/outputs/main/08 0 POST OFF
 /outputs/main/08/delay OFF   0.9
-/outputs/main/09 8 POST OFF
+/outputs/main/09 0 POST OFF
 /outputs/main/09/delay OFF   0.3
-/outputs/main/10 11 POST OFF
+/outputs/main/10 0 POST OFF
 /outputs/main/10/delay OFF   0.3
-/outputs/main/11 14 POST OFF
+/outputs/main/11 0 POST OFF
 /outputs/main/11/delay OFF   0.3
 /outputs/main/12 0 POST OFF
 /outputs/main/12/delay OFF   0.3
@@ -1942,9 +1942,9 @@
 /outputs/main/13/delay OFF   0.3
 /outputs/main/14 0 POST OFF
 /outputs/main/14/delay OFF   0.3
-/outputs/main/15 1 POST OFF
+/outputs/main/15 0 POST OFF
 /outputs/main/15/delay OFF   0.3
-/outputs/main/16 2 POST OFF
+/outputs/main/16 0 POST OFF
 /outputs/main/16/delay OFF   0.3
 /outputs/aux/01 0 POST OFF
 /outputs/aux/02 0 POST OFF
